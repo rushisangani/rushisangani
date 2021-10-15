@@ -1,4 +1,4 @@
-### Hi there :wave: &nbsp;&nbsp; I'm Rushi Sangani
+### Hi there :wave: &nbsp; I'm Rushi Sangani
 
 ## I'm a Husband, Father, Developer, and Manager!
 - :technologist: &nbsp; I work at [CAE](https://www.cae.com) 
@@ -23,7 +23,7 @@
 [<img align="left" alt="Javascript" width="26px" src="./icons/javascript.png" />][javascript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual-studio.png" />][vscode]
 [<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
-[<img align="left" alt="Firebase" width="26px" src="./icons/firebase.png" />][firebase]
+[<img align="left" alt="Firebase" width="26px" src="./icons/firebase1.png" />][firebase]
 [<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
 
 
