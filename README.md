@@ -1,6 +1,6 @@
 ### Hi there :wave: &nbsp; I'm Rushi Sangani
 
-## I'm a Husband, Father, Developer, and Manager! 
+## I'm a Husband, Father, and Developer! 
 - :iphone: &nbsp; I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
 - :books: &nbsp; I'm currently learning React Native, SwiftUI, and everything. :rofl:
 - :handshake: &nbsp; 2022 Goals: Learn management skills and contribute more to Open Source projects.
@@ -31,7 +31,6 @@
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
 - [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live)
 
-<br />
 
 ### Latest Blog Posts:
 - [SwiftUI - Create Horizontal List](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0)
