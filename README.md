@@ -8,12 +8,11 @@
 - :heart: Fun fact: I like to watch movies, tv series, and cricket. I love Apple products. :wink:
 
 ### Connect with me:
-[<img align="left" alt="rushisangani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rushisangani | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="rushisangani | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="rushisangani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rushisangani | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="rushisangani | StackOverflow" width="25px" src="./icons/stack-overflow.png" />][stackoverflow]
+[<img align="left" alt="rushisangani | Medium" width="25px" src="./icons/medium.png" />][medium]
+[<img align="left" alt="rushisangani | YouTube" width="25px" src="./icons/youtube.png" />][youtube]
 
-<br />
 <br />
 
 ### Languages and Tools:
