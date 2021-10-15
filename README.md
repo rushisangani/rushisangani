@@ -19,7 +19,7 @@
 
 [<img align="left" alt="iOS" width="26px" src="./icons/apple.png" />][ios]
 [<img align="left" alt="Swift" width="26px" src="./icons/swift.png" />][swift]
-[<img align="left" alt="React" width="26px" src="./icons/react.png" />][react]
+[<img align="left" alt="React" width="26px" src="./icons/react.png" />][reactnative]
 [<img align="left" alt="Javascript" width="26px" src="./icons/javascript.png" />][javascript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual-studio.png" />][vscode]
 [<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
@@ -40,6 +40,6 @@
 [ios]: https://developer.apple.com/ios/
 [xcode]: https://developer.apple.com/xcode/
 [vscode]: https://code.visualstudio.com
-[react]: https://reactnative.dev
+[reactnative]: https://reactnative.dev
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://github.com/rushisangani/rushisangani/blob/master/README.md
