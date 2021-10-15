@@ -26,35 +26,29 @@
 [<img align="left" alt="Firebase" width="26px" src="./icons/firebase1.png" />][firebase]
 [<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
 
-
 <br />
 <br />
 
 ### Latest Projects:
-
-
-<br />
-<br />
-
-### Latest Blogs:
-
+- [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
+- [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live)
 
 <br />
 <br />
 
-### Latest Youtube Videos:
+### Latest Blog Posts:
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/2" alt="Recent Article 2"> 
 
-
-
-
-
+<br />
+<br />
 
 [linkedin]: https://www.linkedin.com/in/rushisangani/
 [stackoverflow]:https://stackoverflow.com/users/2753399/rushisangani
 [medium]: https://medium.com/@rushisangani
 [youtube]: https://www.youtube.com/channel/UCHKrGJHUtYX31meAEm9jFzw
-
 [swift]: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 [ios]: https://developer.apple.com/ios/
 [xcode]: https://developer.apple.com/xcode/
