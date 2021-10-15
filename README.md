@@ -20,7 +20,7 @@
 
 [<img align="left" alt="iOS" width="26px" src="./icons/apple.png" />][ios]
 [<img align="left" alt="Swift" width="26px" src="./icons/swift.png" />][swift]
-[<img align="left" alt="React" width="26px" src="./icons/react.png" />][reactnative]
+[<img align="left" alt="React" width="26px" src="./icons/react.png" />][react]
 [<img align="left" alt="Javascript" width="26px" src="./icons/javascript.png" />][javascript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual-studio.png" />][vscode]
 [<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
