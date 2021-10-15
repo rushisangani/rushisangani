@@ -1,7 +1,6 @@
 ### Hi there :wave: &nbsp; I'm Rushi Sangani
 
-## I'm a Husband, Father, Developer, and Manager!
-- :technologist: &nbsp; I work at [CAE](https://www.cae.com) 
+## I'm a Husband, Father, Developer, and Manager! 
 - :iphone: &nbsp; I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
 - :books: &nbsp; I'm currently learning React Native, SwiftUI, and everything. :rofl:
 - :handshake: &nbsp; 2022 Goals: Learn management skills and contribute more to Open Source projects.
@@ -27,22 +26,18 @@
 [<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
 
 <br />
-<br />
 
 ### Latest Projects:
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
 - [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live)
 
 <br />
-<br />
 
 ### Latest Blog Posts:
+- [SwiftUI - Create Horizontal List](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0)
+- [SwiftUI - Create Vertical List](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/1)
+- [Implement Dropdown Menu - iOS](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/2)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/2" alt="Recent Article 2"> 
-
-<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/rushisangani/
