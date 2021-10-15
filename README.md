@@ -1,11 +1,11 @@
-### Hi there :wave:  I'm Rushi Sangani
+### Hi there :wave: &nbsp;&nbsp; I'm Rushi Sangani
 
 ## I'm a Husband, Father, Developer, and Manager!
-- :technologist: I work at [CAE](https://www.cae.com) 
-- :iphone: I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
-- :books: I'm currently learning React Native, SwiftUI, and everything. :rofl:
-- :handshake: 2022 Goals: Learn management skills and contribute more to Open Source projects.
-- :heart: Fun fact: I like to watch movies, tv series, and cricket. I love Apple products. :wink:
+- :technologist: &nbsp; I work at [CAE](https://www.cae.com) 
+- :iphone: &nbsp; I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
+- :books: &nbsp; I'm currently learning React Native, SwiftUI, and everything. :rofl:
+- :handshake: &nbsp; 2022 Goals: Learn management skills and contribute more to Open Source projects.
+- :heart: &nbsp; Fun fact: I like to watch movies, tv series, and cricket. I love Apple products. :wink:
 
 ### Connect with me:
 [<img align="left" alt="rushisangani | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
@@ -23,7 +23,26 @@
 [<img align="left" alt="Javascript" width="26px" src="./icons/javascript.png" />][javascript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual-studio.png" />][vscode]
 [<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
+[<img align="left" alt="Firebase" width="26px" src="./icons/firebase.png" />][firebase]
+[<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
 
+
+<br />
+<br />
+
+### Latest Projects:
+
+
+<br />
+<br />
+
+### Latest Blogs:
+
+
+<br />
+<br />
+
+### Latest Youtube Videos:
 
 
 
@@ -43,3 +62,5 @@
 [reactnative]: https://reactnative.dev
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://github.com/rushisangani/rushisangani/blob/master/README.md
+[firebase]: https://firebase.google.com
+[realm]: https://realm.io
