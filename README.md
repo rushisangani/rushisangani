@@ -29,7 +29,7 @@
 
 ### Latest Projects:
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
-- [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live)
+<!-- - [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live) -->
 
 
 ### Latest Blog Posts:
