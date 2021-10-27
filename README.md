@@ -6,15 +6,12 @@
 - :handshake: &nbsp; 2022 Goals: Learn management skills and contribute more to Open Source projects.
 - :heart: &nbsp; Fun fact: I like to watch movies, tv series, and cricket. I love Apple products. :wink:
 
-### Connect with me:
-[<img align="left" alt="rushisangani | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="rushisangani | StackOverflow" width="25px" src="./icons/stack-overflow.png" />][stackoverflow]
-[<img align="left" alt="rushisangani | Medium" width="25px" src="./icons/medium.png" />][medium]
-[<img align="left" alt="rushisangani | YouTube" width="25px" src="./icons/youtube.png" />][youtube]
+### Skills:
 
-<br />
+- :technologist: &nbsp; Swift, Objective-C
+- :student: &nbsp; Javascript, React Native, HTML
 
-### Languages and Tools:
+### Tools:
 
 [<img align="left" alt="iOS" width="26px" src="./icons/apple.png" />][ios]
 [<img align="left" alt="Swift" width="26px" src="./icons/swift.png" />][swift]
@@ -27,6 +24,7 @@
 [<img align="left" alt="Jira" width="26px" src="./icons/jira.png" />][jira]
 
 <br />
+<br />
 
 ### Latest Projects:
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
@@ -37,6 +35,13 @@
 - [SwiftUI - Create Horizontal List](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/0)
 - [SwiftUI - Create Vertical List](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/1)
 - [Implement Dropdown Menu - iOS](https://github-readme-medium-recent-article.vercel.app/medium/@rushisangani/2)
+
+
+### Connect with me:
+[<img align="left" alt="rushisangani | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="rushisangani | StackOverflow" width="25px" src="./icons/stack-overflow.png" />][stackoverflow]
+[<img align="left" alt="rushisangani | Medium" width="25px" src="./icons/medium.png" />][medium]
+[<img align="left" alt="rushisangani | YouTube" width="25px" src="./icons/youtube.png" />][youtube]
 
 <br />
 
