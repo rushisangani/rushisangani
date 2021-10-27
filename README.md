@@ -24,6 +24,7 @@
 [<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
 [<img align="left" alt="Firebase" width="26px" src="./icons/firebase1.png" />][firebase]
 [<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
+[<img align="left" alt="Jira" width="26px" src="./icons/jira.png" />][jira]
 
 <br />
 
@@ -52,3 +53,4 @@
 [git]: https://github.com/rushisangani/rushisangani/blob/master/README.md
 [firebase]: https://firebase.google.com
 [realm]: https://realm.io
+[jira]: https://www.atlassian.com/software/jira
