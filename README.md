@@ -11,7 +11,7 @@
 - :technologist: &nbsp; Swift, Objective-C
 - :student: &nbsp; Javascript, React Native, HTML
 
-### Tools:
+### Framework & Tools:
 
 [<img align="left" alt="iOS" width="26px" src="./icons/apple.png" />][ios]
 [<img align="left" alt="Swift" width="26px" src="./icons/swift.png" />][swift]
