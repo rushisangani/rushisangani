@@ -24,12 +24,13 @@
 [<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
 [<img align="left" alt="Firebase" width="26px" src="./icons/firebase1.png" />][firebase]
 [<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
+[<img align="left" alt="Jira" width="26px" src="./icons/jira.png" />][jira]
 
 <br />
 
 ### Latest Projects:
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
-- [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live)
+<!-- - [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live) -->
 
 
 ### Latest Blog Posts:
@@ -52,3 +53,4 @@
 [git]: https://github.com/rushisangani/rushisangani/blob/master/README.md
 [firebase]: https://firebase.google.com
 [realm]: https://realm.io
+[jira]: https://www.atlassian.com/software/jira
