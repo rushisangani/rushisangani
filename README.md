@@ -25,6 +25,10 @@
 
 <br />
 <br />
+<br />
+
+[![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushisangani)](https://github.com/rushisangani/rushisangani)
+<br />
 
 ### Latest Projects:
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
