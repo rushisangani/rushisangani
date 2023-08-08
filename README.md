@@ -2,14 +2,14 @@
 
 ## I'm a Husband, Father, and Developer! 
 - :iphone: &nbsp; I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
-- :books: &nbsp; I'm currently learning React Native, SwiftUI, and everything. :rofl:
+- :books: &nbsp; I'm currently learning SwiftUI, Leadership, and everything. :rofl:
 - :handshake: &nbsp; 2023 Goals: Learn management skills and contribute more to Open Source projects.
 - :heart: &nbsp; Fun fact: I like to watch movies, tv series, and cricket. I love Apple products. :wink:
 
 ### Skills:
 
-- :technologist: &nbsp; Swift, Objective-C
-- :student: &nbsp; Javascript, React Native, HTML
+- :technologist: &nbsp; Swift, SwiftUI, Objective-C
+- :student: &nbsp; Javascript, HTML
 
 ### Framework & Tools:
 
