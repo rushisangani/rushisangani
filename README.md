@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Father, and Developer! 
 - :iphone: &nbsp; I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
-- :books: &nbsp; I'm currently learning SwiftUI, Leadership, and everything. :rofl:
-- :handshake: &nbsp; 2023 Goals: Learn management skills and contribute more to Open Source projects.
-- :heart: &nbsp; Fun fact: I like to watch movies, tv series, and cricket. I love Apple products. :wink:
+- :books: &nbsp; I'm currently learning SwiftUI, Combine, Leadership, and everything. :rofl:
+- :handshake: &nbsp; 2024 Goals: Learn AI, VisionOS, leadership skills and contribute more to Open Source projects.
+- :heart: &nbsp; Fun fact: I like to watch movies, tv series, and play cricket. I love Apple products. :wink:
 
 ### Skills:
 
@@ -13,15 +13,14 @@
 
 ### Framework & Tools:
 
-[<img align="left" alt="iOS" width="26px" src="./icons/apple.png" />][ios]
-[<img align="left" alt="Swift" width="26px" src="./icons/swift.png" />][swift]
-[<img align="left" alt="React" width="26px" src="./icons/react.png" />][reactnative]
-[<img align="left" alt="Javascript" width="26px" src="./icons/javascript.png" />][javascript]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/visual-studio.png" />][vscode]
-[<img align="left" alt="Github" width="26px" src="./icons/github.png" />][git]
-[<img align="left" alt="Firebase" width="26px" src="./icons/firebase1.png" />][firebase]
-[<img align="left" alt="Realm" width="26px" src="./icons/realm.png" />][realm]
-[<img align="left" alt="Jira" width="26px" src="./icons/jira.png" />][jira]
+[<img align="left" alt="iOS" width="30px" src="./icons/apple.png" />][ios]
+[<img align="left" alt="Swift" width="30px" src="./icons/swift.png" />][swift]
+[<img align="left" alt="Javascript" width="30px" src="./icons/javascript.png" />][javascript]
+[<img align="left" alt="Visual Studio Code" width="30px" src="./icons/visual-studio.png" />][vscode]
+[<img align="left" alt="Github" width="30px" src="./icons/github.png" />][git]
+[<img align="left" alt="Firebase" width="30px" src="./icons/firebase1.png" />][firebase]
+[<img align="left" alt="Realm" width="30px" src="./icons/realm.png" />][realm]
+[<img align="left" alt="Jira" width="30px" src="./icons/jira.png" />][jira]
 
 <br />
 <br />
@@ -42,10 +41,10 @@
 
 
 ### Connect with me:
-[<img align="left" alt="rushisangani | LinkedIn" width="25px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="rushisangani | StackOverflow" width="25px" src="./icons/stack-overflow.png" />][stackoverflow]
-[<img align="left" alt="rushisangani | Medium" width="25px" src="./icons/medium.png" />][medium]
-[<img align="left" alt="rushisangani | YouTube" width="25px" src="./icons/youtube.png" />][youtube]
+[<img align="left" alt="rushisangani | LinkedIn" width="30px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="rushisangani | StackOverflow" width="30px" src="./icons/stack-overflow.png" />][stackoverflow]
+[<img align="left" alt="rushisangani | Medium" width="30px" src="./icons/medium.png" />][medium]
+[<img align="left" alt="rushisangani | YouTube" width="30px" src="./icons/youtube.png" />][youtube]
 
 <br />
 <br />
