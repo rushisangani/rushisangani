@@ -1,14 +1,14 @@
 ### Hi there :wave: &nbsp; I'm Rushi Sangani
 
 ## I'm a Husband, Father, and Developer! 
-- :iphone: &nbsp; I'm currently working on [RosterBuster: The #1 Airline Crew app](https://rosterbuster.aero)!
-- :books: &nbsp; I'm currently learning SwiftUI, Combine, Leadership, and everything. :rofl:
-- :handshake: &nbsp; 2024 Goals: Learn AI, VisionOS, leadership skills and contribute more to Open Source projects.
-- :heart: &nbsp; Fun fact: I like to watch movies, tv series, and play cricket. I love Apple products. :wink:
+- :iphone: &nbsp; I'm currently working on [ING Banking App.](https://apps.apple.com/nl/app/ing-bankieren/id474495017?mt=8)
+- :books: &nbsp; I'm currently learning Swift Concurrency, SwiftUI, Leadership, and everything. :rofl:
+- :handshake: &nbsp; 2024 Goals: Learn AI, effective communication, leadership skills and contribute more to open source projects.
+- :heart: &nbsp; Fun fact: I like to watch movies, tv series, and play cricket. I like being tied to Apple ecosystem. :wink:
 
 ### Skills:
 
-- :technologist: &nbsp; Swift, SwiftUI, Objective-C
+- :technologist: &nbsp; Swift, Objective-C
 - :student: &nbsp; Javascript, HTML
 
 ### Framework & Tools:
@@ -30,6 +30,7 @@
 <br />
 
 ### Latest Projects:
+- [ING Bank: Identification and Verification](https://www.ing.nl/particulier/betalen/bankrekeningen/identificatie)
 - [RosterBuster: The #1 Airline Crew app](https://apps.apple.com/us/app/rosterbuster-airline-crew-app/id1035558169#?platform=iphone)
 - [SwiftMVVMDemo](https://github.com/rushisangani/SwiftMVVMDemo)
 <!-- - [VideoSDK: Interactive Video API Experiences for Developers](https://www.videosdk.live) -->
